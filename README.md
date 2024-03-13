@@ -7,3 +7,5 @@ Question: Which counties have produced the most top 100 California baseball recr
 - Scraped recruiting data from Prep Baseball Report using _rvest_ package and cleaned data in R
 - Los Angeles, Orange, and San Diego Counties have produced the most top 100 recruits, most of them being RHP and OF
 - Created choropleth map for ease of presentation
+
+![](https://github.com/raychan6/raychan6.github.io/blob/main/recruit_counties_2019_2022.png)
