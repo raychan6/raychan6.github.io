@@ -9,7 +9,7 @@
 - Built logistic regression, support vector machines, random forest, and boosted trees model
 - Support vector machines model correctly predicted 90% of wins and 90% of losses solely based on Jokic's performance
 
-| ![](/assets/img/confusion_matrix.png) |
+| ![](/assets/img/jokic_confusion_matrix.png) |
 |:--:|
 | *Confusion matrix for SVM model* |
 
