@@ -1,5 +1,20 @@
 # <ins>Projects</ins>
 
+## [Predicting StarCraft Player Rank Using Performance Data](https://github.com/raychan6/predicting-starcraft-rank)
+
+**Question**: Can I predict the rank of a StarCraft player based on their performance?
+
+- Performed EDA on dataset, which turned out to include much more low rank players
+- Built a logistic regression model with 86% training accuracy and 84% testing accuracy and a random forest model with 96% training accuracy and 82% testing accuracy
+- Preferred logistic regression model due to less overfitting and higher testing accuracy, but it predicts low rank players more accurately than high rank players
+- Perhaps there is a smaller gap between low and high rank players than expected 
+
+| ![](/assets/img/starcraft-logistic-regression.png) |
+|:--:|
+| *Confusion matrix of logistic regression model (0: low rank, 1: high rank)* |
+
+<br>
+
 ## [Nikola Jokic Machine Learning Project](https://github.com/raychan6/nikola-jokic-machine-learning-project)
 
 **Question**: Can I predict whether the Denver Nuggets will win a regular season game solely based on Nikola Jokic's performance?
