@@ -1,6 +1,6 @@
 # <ins>Projects</ins>
 
-## <ins>[Predicting StarCraft Player Rank Using Performance Data](https://github.com/raychan6/predicting-starcraft-rank)</ins>
+## [<ins>Predicting StarCraft Player Rank Using Performance Data<ins>](https://github.com/raychan6/predicting-starcraft-rank)
 
 **Question**: Can I predict the rank of a StarCraft player based on their performance?
 
