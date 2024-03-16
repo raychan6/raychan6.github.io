@@ -15,7 +15,7 @@
 
 <br>
 
-## <ins>[Nikola Jokic Machine Learning Project](https://github.com/raychan6/nikola-jokic-machine-learning-project)</ins>
+## [<ins>Nikola Jokic Machine Learning Project</ins>](https://github.com/raychan6/nikola-jokic-machine-learning-project)
 
 **Question**: Can I predict whether the Denver Nuggets will win a regular season game solely based on Nikola Jokic's performance?
 
@@ -30,7 +30,7 @@
 
 <br>
 
-## <ins>[LeBron James: The New Michael Jordan?](https://github.com/raychan6/lebron-james-data-analysis)</ins>
+## [<ins>LeBron James: The New Michael Jordan?</ins>](https://github.com/raychan6/lebron-james-data-analysis)
 
 **Question**: Can we find any interesting insights from analyzing LeBron James's stats (2003-2022)?
 
@@ -45,7 +45,7 @@
 
 <br>
 
-## <ins>[Prep Baseball Report 2019-2022 Recruiting Project](https://github.com/raychan6/pbr-recruiting)</ins>
+## [<ins>Prep Baseball Report 2019-2022 Recruiting Project</ins>](https://github.com/raychan6/pbr-recruiting)
 
 **Question**: Which counties have produced the most top 100 California baseball recruits in the last 4 years?
 
