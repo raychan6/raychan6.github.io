@@ -1,6 +1,6 @@
 # <ins>Projects</ins>
 
-## [Predicting StarCraft Player Rank Using Performance Data](https://github.com/raychan6/predicting-starcraft-rank)
+## <ins>[Predicting StarCraft Player Rank Using Performance Data](https://github.com/raychan6/predicting-starcraft-rank)</ins>
 
 **Question**: Can I predict the rank of a StarCraft player based on their performance?
 
@@ -15,7 +15,7 @@
 
 <br>
 
-## [Nikola Jokic Machine Learning Project](https://github.com/raychan6/nikola-jokic-machine-learning-project)
+## <ins>[Nikola Jokic Machine Learning Project](https://github.com/raychan6/nikola-jokic-machine-learning-project)</ins>
 
 **Question**: Can I predict whether the Denver Nuggets will win a regular season game solely based on Nikola Jokic's performance?
 
@@ -30,7 +30,7 @@
 
 <br>
 
-## [LeBron James: The New Michael Jordan?](https://github.com/raychan6/lebron-james-data-analysis)
+## <ins>[LeBron James: The New Michael Jordan?](https://github.com/raychan6/lebron-james-data-analysis)</ins>
 
 **Question**: Can we find any interesting insights from analyzing LeBron James's stats (2003-2022)?
 
@@ -45,7 +45,7 @@
 
 <br>
 
-## [Prep Baseball Report 2019-2022 Recruiting Project](https://github.com/raychan6/pbr-recruiting) 
+## <ins>[Prep Baseball Report 2019-2022 Recruiting Project](https://github.com/raychan6/pbr-recruiting)</ins>
 
 **Question**: Which counties have produced the most top 100 California baseball recruits in the last 4 years?
 
