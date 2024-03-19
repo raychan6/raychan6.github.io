@@ -1,13 +1,13 @@
 # <ins>Projects</ins>
 
-## [<ins>Anime Quote Generator App<ins>](https://github.com/raychan6/anime-quote-generator)
+## [<ins>Anime Quote Generator App</ins>](https://github.com/raychan6/anime-quote-generator)
 
 - Created Python app that returns a random anime quote using Animechan, a RESTful API
 - Future work: get random quote from anime title input by user, create web app or executable file with UI for a more interactive experience
 
 <br>
 
-## [<ins>Predicting StarCraft Player Rank Using Performance Data<ins>](https://github.com/raychan6/predicting-starcraft-rank)
+## [<ins>Predicting StarCraft Player Rank Using Performance Data</ins>](https://github.com/raychan6/predicting-starcraft-rank)
 
 **Question**: Can I predict the rank of a StarCraft player based on their performance?
 
