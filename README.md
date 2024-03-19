@@ -2,7 +2,7 @@
 
 ## [<ins>Anime Quote Generator App</ins>](https://github.com/raychan6/anime-quote-generator)
 
-- Created Python app that returns a random anime quote using Animechan, a RESTful API
+- Built Python app that returns a random anime quote using Animechan, a RESTful API
 - Future work: get random quote from anime title input by user, create web app or executable file with UI for a more interactive experience
 
 <br>
