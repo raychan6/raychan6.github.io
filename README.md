@@ -4,7 +4,9 @@
 ## [<ins>Anime Quote Generator App</ins>](https://github.com/raychan6/anime-quote-generator)
 
 - Built Python app that returns a random anime quote using Animechan, a RESTful API
-- Future work: get random quote from anime title input by user, create web app or executable file with UI for a more interactive experience
+- Future work:
+  - Get random quote from anime title input by user
+  - Implement into Discord bot, web app, or executable file with UI for a more interactive experience
 
 
 ## [<ins>Predicting StarCraft Player Rank Using Performance Data</ins>](https://github.com/raychan6/predicting-starcraft-rank)
