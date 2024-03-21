@@ -6,7 +6,7 @@
 - Built Python app that returns a random anime quote using Animechan, a RESTful API
 - Can filter by title input by user, checking for typos
 - Future work:
-  - Implement into Discord bot, web app, or executable file with UI for a more interactive experience
+  - Implement into Discord bot, web/mobile app, or executable file with UI for a more interactive experience
 
 
 ## [<ins>Predicting StarCraft Player Rank Using Performance Data</ins>](https://github.com/raychan6/predicting-starcraft-rank)
